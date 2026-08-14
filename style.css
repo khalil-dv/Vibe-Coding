@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --primary-color: #000000;
+  --primary-color: #04aa6d;
   --secondary-color: #ffffff;
   --accent-color: #276ef1;
   --text-dark: #333333;
   --text-light: #f5f5f5;
-  --bg-dark: #121212;
+  --bg-dark: #023622;
   --bg-light: #ffffff;
   --border-radius: 8px;
   --transition: all 0.3s ease;
@@ -60,7 +60,7 @@ h2 { font-size: 2.5rem; margin-bottom: 1.5rem; }
 }
 
 .btn-primary:hover {
-  background-color: #333;
+  background-color: #038b59;
 }
 
 .btn-light {
